@@ -14,5 +14,5 @@ Our objective is to take a low resolution image and produce an estimate of a cor
 
 <h2>Uses in real life</h2>
 1. Surveillance: to detect, identify, and perform facial recognition on low-resolution images obtained from security cameras. <br>
-2. Medical: capturing high-resolution MRI images can be tricky when it comes to scan time, spatial coverage, and signal-to-noise ratio (SNR).    Super resolution helps resolve this by generating high-resolution MRI from otherwise low-resolution MRI images. <br>
+2. Medical: capturing high-resolution MRI images can be tricky when it comes to scan time, spatial coverage, and signal-to-noise ratio (SNR). &nbsp&nbsp&nbspSuper resolution helps resolve this by generating high-resolution MRI from otherwise low-resolution MRI images. <br>
 3. Media: super resolution can be used to reduce server costs, as media can be sent at a lower resolution and upscaled on the fly.
