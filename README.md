@@ -29,6 +29,8 @@ Our objective is to take a low resolution image and produce an estimate of a cor
 6. Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network Wenzhe Shi1 , Jose Caballero1 , Ferenc Huszar´ 1 , Johannes Totz1 , Andrew P. Aitken1 , Rob Bishop1 , Daniel Rueckert1 , Zehan Wang1 (Twitter)
 7. Generative Adversarial Nets Ian J. Goodfellow, Jean Pouget-Abadie∗ , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair† , Aaron Courville, Yoshua Bengio‡ Departement d’informatique et de recherche op ´ erationnelle ´ Universite de Montr ´ eal ´ Montreal, QC H3C 3J7 
 
+<br><br>
+
 ![image](https://user-images.githubusercontent.com/88042019/164972456-a66a6030-343d-4b51-9101-916ca96e408a.png)
 ![image](https://user-images.githubusercontent.com/88042019/164972464-4a539aa4-ae37-4f14-9342-d90049eb38b0.png)
 ![image](https://user-images.githubusercontent.com/88042019/164972476-db66ca7d-65be-417a-aa6e-3b0412e51903.png)
