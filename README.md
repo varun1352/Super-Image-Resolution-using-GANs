@@ -21,10 +21,10 @@ Our objective is to take a low resolution image and produce an estimate of a cor
 
 <h2>References</h2>
 
-Image Super-Resolution Using Deep Convolutional Networks Chao Dong, Chen Change Loy, Member, IEEE, Kaiming He, Member, IEEE, and Xiaoou Tang, Fellow, IEEE 
-Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising Kai Zhang, Wangmeng Zuo, Yunjin Chen, Deyu Meng, and Lei Zhang 
-https://github.com/SaoYan/DnCNN-PyTorch 
-https://github.com/tegg89/SRCNN-Tensorflow
-Checkerboard artifact free sub-pixel convolution A note on sub-pixel convolution, resize convolution and convolution resize Andrew Aitken*, Christian Ledig*, Lucas Theis*, Jose Caballero, Zehan Wang, Wenzhe Shi* Twitter, Inc. 
-Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network Wenzhe Shi1 , Jose Caballero1 , Ferenc Huszar´ 1 , Johannes Totz1 , Andrew P. Aitken1 , Rob Bishop1 , Daniel Rueckert1 , Zehan Wang1 (Twitter)
-Generative Adversarial Nets Ian J. Goodfellow, Jean Pouget-Abadie∗ , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair† , Aaron Courville, Yoshua Bengio‡ Departement d’informatique et de recherche op ´ erationnelle ´ Universite de Montr ´ eal ´ Montreal, QC H3C 3J7 
+1. Image Super-Resolution Using Deep Convolutional Networks Chao Dong, Chen Change Loy, Member, IEEE, Kaiming He, Member, IEEE, and Xiaoou Tang, Fellow, IEEE 
+2. Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising Kai Zhang, Wangmeng Zuo, Yunjin Chen, Deyu Meng, and Lei Zhang 
+3. https://github.com/SaoYan/DnCNN-PyTorch 
+4. https://github.com/tegg89/SRCNN-Tensorflow
+5. Checkerboard artifact free sub-pixel convolution A note on sub-pixel convolution, resize convolution and convolution resize Andrew Aitken*, Christian Ledig*, Lucas Theis*, Jose Caballero, Zehan Wang, Wenzhe Shi* Twitter, Inc. 
+6. Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network Wenzhe Shi1 , Jose Caballero1 , Ferenc Huszar´ 1 , Johannes Totz1 , Andrew P. Aitken1 , Rob Bishop1 , Daniel Rueckert1 , Zehan Wang1 (Twitter)
+7. Generative Adversarial Nets Ian J. Goodfellow, Jean Pouget-Abadie∗ , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair† , Aaron Courville, Yoshua Bengio‡ Departement d’informatique et de recherche op ´ erationnelle ´ Universite de Montr ´ eal ´ Montreal, QC H3C 3J7 
