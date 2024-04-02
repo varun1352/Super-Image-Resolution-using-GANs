@@ -1,6 +1,3 @@
-# CSE541-Computer-Vision-2022-GANJedis
-
-
 <h1>Single Image Super Image Resolution</h1>
 
 
